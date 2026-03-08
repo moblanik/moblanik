@@ -1,14 +1,19 @@
-### Hi there, I'm Mykola (moblanik) 👋
+### Hi there, I'm Mykola Blazhko (moblanik) 👋
 
-I'm a Senior Backend Developer from Ukraine with over a decade of experience in software engineering. I specialize in designing robust, scalable architectures, developing high-performance APIs, and building complex microservices. 
+I'm a Senior Backend Developer from Ukraine with over a decade of experience in software engineering. I specialize in designing robust, scalable architectures, developing high-performance APIs, building complex microservices, and automating deployments.
 
-I am deeply committed to writing clean, maintainable code, strictly adhering to **SOLID, DRY, KISS** principles and **PHP PSR** standards. I also advocate for a quality-first approach, ensuring every Laravel project is robustly covered by **PHPUnit** tests.
+I am deeply committed to writing clean, maintainable code, strictly adhering to **SOLID, DRY, KISS** principles and **PHP PSR** standards. I also advocate for a quality-first approach, ensuring every project is robustly covered by **PHPUnit** tests and continuously integrated using modern **CI/CD** practices.
 
 #### 🛠️ Tech Stack & Expertise
 
 **Backend & Architecture** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+**DevOps, CI/CD & Infrastructure** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 **Testing** ![PHPUnit](https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge&logo=php&logoColor=white)
 
@@ -25,15 +30,18 @@ I am deeply committed to writing clean, maintainable code, strictly adhering to 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Infrastructure & Real-time** ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+**Real-time** ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
 #### 🌱 What I'm currently learning
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
 After years of mastering the PHP ecosystem, I am currently diving into **Go (Golang)** to explore its capabilities for building ultra-fast, concurrent API microservices.
+
+#### 📊 GitHub Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=moblanik&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moblanik&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+</div>
 
 #### 📫 Let's Connect
 * Looking for part-time backend development opportunities.
