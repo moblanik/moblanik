@@ -25,6 +25,7 @@ I am deeply committed to writing clean, maintainable code, strictly adhering to 
 ![Google Pub/Sub](https://img.shields.io/badge/Google_Pub%2FSub-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Memcached](https://img.shields.io/badge/Memcached-1481C2?style=for-the-badge)
 
 **Real-time & WebRTC** ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Janus Gateway](https://img.shields.io/badge/Janus_Gateway-F68C29?style=for-the-badge)
