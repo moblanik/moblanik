@@ -1,4 +1,4 @@
-### Hi there, I'm Mykola (moblanik) 👋
+### Hi there, I'm Mykola Blazhko (moblanik) 👋
 
 I'm a Senior Backend Developer from Ukraine with over a decade of experience in software engineering. I specialize in designing robust, scalable architectures, developing high-performance APIs, building complex microservices, and automating deployments.
 
@@ -26,13 +26,17 @@ I am deeply committed to writing clean, maintainable code, strictly adhering to 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+**Real-time & WebRTC** ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Janus Gateway](https://img.shields.io/badge/Janus_Gateway-F68C29?style=for-the-badge)
+![Centrifugo](https://img.shields.io/badge/Centrifugo-252525?style=for-the-badge)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-101010?style=for-the-badge)
+
 **Frontend Ecosystem** ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Infrastructure & Real-time** ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
 #### 🌱 What I'm currently learning
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
