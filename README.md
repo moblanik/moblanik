@@ -1,4 +1,4 @@
-### Hi there, I'm Mykola Blazhko (moblanik) 👋
+### Hi there, I'm Mykola (moblanik) 👋
 
 I'm a Senior Backend Developer from Ukraine with over a decade of experience in software engineering. I specialize in designing robust, scalable architectures, developing high-performance APIs, building complex microservices, and automating deployments.
 
@@ -27,21 +27,16 @@ I am deeply committed to writing clean, maintainable code, strictly adhering to 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Frontend Ecosystem** ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Real-time** ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+**Infrastructure & Real-time** ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
 #### 🌱 What I'm currently learning
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
 After years of mastering the PHP ecosystem, I am currently diving into **Go (Golang)** to explore its capabilities for building ultra-fast, concurrent API microservices.
-
-#### 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=moblanik&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moblanik&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
-</div>
 
 #### 📫 Let's Connect
 * Looking for part-time backend development opportunities.
